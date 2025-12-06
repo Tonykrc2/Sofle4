@@ -1,5 +1,5 @@
 / {
     chosen {
-        zmk,split-role = "right";
+        zmk,split-role = "left";
     };
 };
